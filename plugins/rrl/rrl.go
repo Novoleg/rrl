@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/coredns/coredns/plugin/metadata"
-	"github.com/coredns/rrl/plugins/rrl/cache"
+	"github.com/novoleg/rrl/plugins/rrl/cache"
 
 	"github.com/miekg/dns"
 
